@@ -1,4 +1,4 @@
-Pimp My Pipeline
+Pimp My Timeline
 ================
 
 Dependencies
